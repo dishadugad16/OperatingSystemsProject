@@ -1,7 +1,7 @@
 # Team Members
 
 [Jay Nakum 20BCP304D](https://github.com/JayNakum)  
-[Name {Roll Number}](github profile)  
+[Jenish Modh {20BCP306D}](https://github.com/jenishmodh)  
 [Name {Roll Number}](github profile)  
 [Name {Roll Number}](github profile)  
 [Name {Roll Number}](github profile)  
