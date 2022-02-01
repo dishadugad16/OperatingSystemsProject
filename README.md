@@ -1,1 +1,2 @@
-# Topic: CPU Scheduling Algorithm
+# Topic: CPU Scheduling Algorithms
+### Project Faculty: Dr. Rutvij Jhaveri
